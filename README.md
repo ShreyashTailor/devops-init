@@ -23,10 +23,7 @@ Here're some of the project's best features:
 *   Cross-platform (Windows macOS Linux)
 *   Published on NPM official site.
 
-<h2>npm page</h2>
-<a href="https://www.npmjs.com/package/devops-init">Click here</a>
-
-<h2>npm page</h2>
+<h2>NPM page</h2>
 <a href="https://www.npmjs.com/package/devops-init">Click here</a>
 
 <h2>🛠️ Installation Steps:</h2>
