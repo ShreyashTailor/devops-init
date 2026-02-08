@@ -40,11 +40,12 @@ devops-init --help
 <h2>🍰 Contribution Guidelines:</h2>
 
 Contributions are welcome!
-Steps: 1) Fork the repository.
-2) Create a feature branch.
-3) Add tests for your changes.
-4) Open a pull request.
-- Please keep code clean and documented.
+Steps: 
+- Fork the repository.
+- Create a feature branch.
+- Add tests for your changes.
+- Open a pull request.
+<b>Please keep code clean and documented.</b>
 
   
   
@@ -65,6 +66,6 @@ This project is licensed under the under the MIT License. You are free to use mo
 
 <h2>💖Like my work?</h2>
 
-📧 Email: shreyash@certiswift.in
-🐛 Issues: Use GitHub Issues tab
-💡 Suggestions: Pull requests are welcome
+- 📧 Email: shreyash@certiswift.in
+- 🐛 Issues: Use GitHub Issues tab
+- 💡 Suggestions: Pull requests are welcome
