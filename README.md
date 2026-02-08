@@ -45,9 +45,8 @@ Steps:
 - Create a feature branch.
 - Add tests for your changes.
 - Open a pull request.
-<b>Please keep code clean and documented.</b>
+- <b>Please keep code clean and documented.</b>
 
-  
   
 <h2>💻 Built with</h2>
 
