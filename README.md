@@ -21,7 +21,10 @@ Here're some of the project's best features:
 *   Interactive based CLI
 *   Early validation for invalid options
 *   Cross-platform (Windows macOS Linux)
-*   Published on npm
+*   Published on NPM official site.
+
+<h2>npm page</h2>
+<a href="https://www.npmjs.com/package/devops-init">Click here</a>
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -29,6 +32,12 @@ Here're some of the project's best features:
 
 ```
 npm install -g devops-init
+```
+
+OR
+
+```
+npm i devops-init
 ```
 
 <p>2. Verify</p>
