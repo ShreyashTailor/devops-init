@@ -26,6 +26,9 @@ Here're some of the project's best features:
 <h2>npm page</h2>
 <a href="https://www.npmjs.com/package/devops-init">Click here</a>
 
+<h2>npm page</h2>
+<a href="https://www.npmjs.com/package/devops-init">Click here</a>
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Global Installation (recommended)</p>
