@@ -52,9 +52,9 @@ Contributions are welcome!
 Steps: 
 - Fork the repository.
 - Create a feature branch.
-- Add tests for your changes.
 - Open a pull request.
-- <b>Please keep code clean and documented.</b>
+  
+- <h3><b>Please keep code clean and documented.</b></h3>
 
   
 <h2>💻 Built with</h2>
